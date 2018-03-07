@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">MoviesCatalog</string>
+
+    <string name="bariol_regular">fonts/Bariol_Regular.otf</string>
+    <string name="bariol_light">fonts/Bariol_Light.otf</string>
+    <string name="bariol_thin">fonts/Bariol_Thin.otf</string>
+    <string name="bariol_bold">fonts/Bariol_Bold.otf</string>
+    <string name="no_movies">No results :(</string>
+    <string name="filter_text">The movie list content will be updated in real time</string>
+    <string name="filter_by_name">Name</string>
+    <string name="order_by">Order by</string>
+    <string name="vote_average">Vote Average</string>
+    <string name="release_date">Release Date</string>
+
+    <string name="filter_by">Filter by genres</string>
+    <string name="order_asc">ASC</string>
+    <string name="order_desc">DESC</string>
+    <string name="category_placeholder">Comedy</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="select_all">Select All</string>
+    <string name="all_selected">All Select</string>
+    <string name="image_transition">imageTransitionName</string>
+    <string name="vote_transition">voteTransitionName</string>
+    <string name="title_transition">titleTransitionName</string>
+    <string name="favorite_transition">favoriteTransitionName</string>
+    <string name="year_transition">year_transition_name</string>
+    <string name="fav_container_transition">favoriteContainerTransitionName</string>
+    <string name="share_transition">shareTransitionName</string>
+    <string name="toolbar_title">MoviesCatalog: Top Popularity</string>
+    <string name="genres_not_loaded">Genres not loaded yet</string>
+    <string name="genres">Genres:</string>
+
+</resources>
